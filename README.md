@@ -11,3 +11,4 @@
 * R script
   * Cronjob  
   
+https://helsinkisolutionoffice.atlassian.net/wiki/spaces/HELFI/pages/9029517319/Base+images+for+applications+running+on+Platta
