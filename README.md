@@ -4,7 +4,8 @@
 * react
 * next
 * nodejs
-* postgres
+* postgres (postgis)
 * geoserver
+* R script
 * 
   
